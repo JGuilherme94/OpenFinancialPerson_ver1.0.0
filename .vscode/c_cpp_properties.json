@@ -17,7 +17,8 @@
             "intelliSenseMode": "windows-gcc-x64",
             "browse": {
                 "path": [
-                    "${workspaceFolder}"
+                    "${workspaceFolder}",
+                    "${workspaceFolder}/**"
                 ]
             }
         }
